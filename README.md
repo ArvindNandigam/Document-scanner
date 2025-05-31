@@ -1,2 +1,2 @@
 # Document-scanner
-A document scanner that detects edges and reads the document
+The Document Scanner App is a Python-based web application that mimics the functionality of popular scanning apps like CamScanner. It allows users to upload an image of a document, automatically detects and extracts the document boundaries, applies a perspective transform to flatten the image, enhances it for better readability, and uses Optical Character Recognition (OCR) to extract and display text content.
